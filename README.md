@@ -59,16 +59,6 @@ https://docs.google.com/spreadsheets/d/17r_tGyt3SeKF-OGTUGGORN4IO5c8MmmZCC8MUShh
 Ход работы: 
 - Решение должно заполнять google-таблицу данными из Python. В Python данные также должны быть визуализированы.
 
-
-```python
-
-```
-
-Код:
-[Относительная ссылка на документ](assets/UnityBihaviourScrpit.cs)
-
-
-
 ## Выводы
 
 Я выполнил задания воркшопа3.
